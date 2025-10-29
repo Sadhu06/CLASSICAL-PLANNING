@@ -119,4 +119,4 @@ Output
 Result
 
 Thus the program to implement Classical Planning Algorithm has been executed successfully.
-                                                                                                                                                                #how to execute this code
+                                                                                                                                                                
